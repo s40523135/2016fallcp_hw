@@ -19,6 +19,7 @@
 <v t="leo.20151213085727.1"><vh>@button pelican-blog</vh></v>
 </v>
 <v t="amd.20151215180106.1" a="E"><vh>設定與開發</vh>
+<v t="leo.20161202143759.1"><vh>newHeadline</vh></v>
 <v t="amd.20151216151325.1" a="E"><vh>@clean index.html</vh>
 <v t="amd.20161004083800.1" a="E"><vh>html</vh>
 <v t="amd.20161004083800.2"><vh>head</vh></v>
@@ -169,6 +170,7 @@
 <v t="leo.20161014142409.1"><vh>@edit 20161014.md</vh></v>
 <v t="leo.20161024160947.1"><vh>@edit 20161024.md</vh></v>
 <v t="leo.20161114144548.1"><vh>@edit 20161114.md</vh></v>
+<v t="leo.20161202143812.1"><vh>@edit 20161202.md</vh></v>
 </v>
 </v>
 </v>
@@ -476,6 +478,7 @@ PLUGINS = ['liquid_tags.notebook', 'summary']
 <t tx="leo.20151213230957.1"># 設定網誌以 md 檔案建立的 file system date 為準, 無需自行設定
 
 DEFAULT_DATE = 'fs'</t>
+<t tx="leo.20161202143759.1"></t>
 <t tx="yen.20161011114704.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
