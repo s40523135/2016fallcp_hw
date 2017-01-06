@@ -176,7 +176,7 @@ init_mathjax();
         <meta property="og:title" content="line"/>
         <meta property="og:url" content="./line.html"/>
         <meta property="og:description" content=""/>
-        <meta property="article:published_time" content="2016-01-06" />
+        <meta property="article:published_time" content="2017-01-06" />
             <meta property="article:section" content="Cours" />
             <meta property="article:tag" content="Brython" />
             <meta property="article:author" content="tangkeer" />
@@ -305,7 +305,7 @@ init_mathjax();
 <footer class="post-info">
     <span class="label label-default">Date</span>
     <span class="published">
-        <i class="fa fa-calendar"></i><time datetime="2016-01-06T02:38:00+08:00"> 週三 06 一月 2016</time>
+        <i class="fa fa-calendar"></i><time datetime="2017-01-06T02:38:00+08:00"> 週五 06 一月 2017</time>
     </span>
             <span class="label label-default">By</span>
             <a href="./author/tangkeer.html"><i class="fa fa-user"></i> tangkeer</a>
@@ -314,7 +314,9 @@ init_mathjax();
 
 <span class="label label-default">Tags</span>
 	<a href="./tag/brython.html">Brython</a>
-    
+    <span class="label label-default">Lang</span>
+	<a href="./line.html">en</a>
+
 </footer><!-- /.post-info -->                    </div>
                 </div>
                 <!-- PELICAN_END_SUMMARY -->
@@ -367,6 +369,16 @@ ctx.stroke()
 ctx.closePath()
 
 circle(200, 200, 5)
+
+x1 = 200
+y1 = 200 
+r =100
+deg = math.pi/180
+
+for i in range(5)：
+x2 = x1 + r*math.cos(30*deg)
+y2 = y1 + r*math.sin(30*deg)
+line(x1,y1,x2,y2)
 </script>
             </div>
             <!-- /.entry-content -->
@@ -382,6 +394,11 @@ circle(200, 200, 5)
 
             <li class="list-group-item"><h4><i class="fa fa-home fa-lg"></i><span class="icon-label">Recent Posts</span></h4>
                 <ul class="list-group" id="recentposts">
+                    <li class="list-group-item">
+                        <a href="./line.html">
+                            line
+                        </a>
+                    </li>
                     <li class="list-group-item">
                         <a href="./w16-lian-xi.html">
                             W16 練習
@@ -400,11 +417,6 @@ circle(200, 200, 5)
                     <li class="list-group-item">
                         <a href="./w12-work.html">
                             w12 work
-                        </a>
-                    </li>
-                    <li class="list-group-item">
-                        <a href="./w10-brython.html">
-                            w10 brython
                         </a>
                     </li>
                 </ul>
@@ -468,7 +480,7 @@ circle(200, 200, 5)
    <div class="container">
       <hr>
       <div class="row">
-         <div class="col-xs-10">&copy; 2016 40523135
+         <div class="col-xs-10">&copy; 2017 40523135
             &middot; Powered by <a href="https://github.com/DandyDev/pelican-bootstrap3" target="_blank">pelican-bootstrap3</a>,
             <a href="http://docs.getpelican.com/" target="_blank">Pelican</a>,
             <a href="http://getbootstrap.com" target="_blank">Bootstrap</a>         </div>

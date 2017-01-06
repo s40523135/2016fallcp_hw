@@ -173,7 +173,7 @@
 <v t="leo.20161202143812.1"><vh>@edit 20161202.md</vh></v>
 <v t="leo.20161216140008.1"><vh>@edit 20161216.md</vh></v>
 <v t="leo.20161230133420.1"><vh>@edit 20161230.md</vh></v>
-<v t="leo.20170106143440.1"><vh>@edit 201600106.md</vh></v>
+<v t="leo.20170106143440.1"><vh>@edit 20170106.md</vh></v>
 </v>
 </v>
 </v>
@@ -183,8 +183,8 @@
 </v>
 </v>
 <v t="amd.20161004202833.1"><vh>@edit ../README.md</vh></v>
-<v t="yen.20161022111056.1"><vh>@button https server</vh></v>
 <v t="yen.20161022151749.1"><vh>產生 .key 與 .crt</vh></v>
+<v t="yen.20161022111056.1"><vh>@button https server</vh></v>
 </vnodes>
 <tnodes>
 <t tx="amd.20151215170031.1"></t>
