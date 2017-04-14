@@ -163,7 +163,7 @@
 <v t="amd.20151215170350.1"><vh>以下為 content 目錄中的 md 檔案</vh></v>
 <v t="amd.20151216001126.1"><vh>md 檔案範例</vh></v>
 <v t="amd.20151215170031.1" a="E"><vh>@path ./../content</vh>
-<v t="amd.20160106093454.1" a="E"><vh>yen 所寫的網誌文章</vh>
+<v t="amd.20160106093454.1" a="E"><vh>40523135 所寫的網誌文章</vh>
 <v t="amd.20160727114506.1" a="E"><vh>201609</vh>
 <v t="amd.20160727120222.1"><vh>@edit 20160921.md</vh></v>
 <v t="leo.20161118140904.1"><vh>@edit 20161118.md</vh></v>
@@ -174,6 +174,8 @@
 <v t="leo.20161216140008.1"><vh>@edit 20161216.md</vh></v>
 <v t="leo.20161230133420.1"><vh>@edit 20161230.md</vh></v>
 <v t="leo.20170106143440.1"><vh>@edit 20170106.md</vh></v>
+<v t="leo.20170414143833.1"><vh>@edit 20170414.md</vh></v>
+<v t="leo.20170414144135.1"><vh>@edit 20170414.md</vh></v>
 </v>
 </v>
 </v>
@@ -229,7 +231,7 @@ print("hello")
 <t tx="amd.20161004083800.2">&lt;head&gt;
     &lt;meta charset="utf-8"&gt;
 &lt;title&gt;    
-2016 Fall 計算機程式課程
+2017 springwcm 网际网路管理课程
 &lt;/title&gt;
     &lt;meta name="description" content="A framework for easily creating beautiful presentations using HTML"&gt;
     &lt;meta name="author" content="Hakim El Hattab"&gt;
@@ -308,7 +310,7 @@ print("hello")
 
 						
 </t>
-<t tx="amd.20161004095719.2"># 2016Fall 計算機程式課程
+<t tx="amd.20161004095719.2"># 2017springwcm 网路网际管理课程网志
 
 ### 虎科大機械設計工程系
 
